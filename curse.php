@@ -1,0 +1,1 @@
+<?php header('Location: https://minecraft.curseforge.com/projects/en-mandig-modpack-a-manly-modpack'); ?>

@@ -1,0 +1,419 @@
+[12-Mar-2017 17:01:54 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[12-Mar-2017 17:01:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[12-Mar-2017 17:04:14 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[12-Mar-2017 17:04:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[12-Mar-2017 21:08:50 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[12-Mar-2017 21:08:50 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[12-Mar-2017 21:55:09 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 00:36:24 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 00:36:24 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 01:19:44 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 01:19:44 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 02:05:04 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 02:05:04 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 02:06:25 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 03:07:25 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 03:18:46 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 03:18:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 04:28:04 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 04:28:04 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 05:01:23 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 05:01:23 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 06:27:43 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 06:27:43 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 06:40:03 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 06:40:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 09:23:20 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 09:23:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 10:51:40 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 13:50:57 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 14:51:17 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 15:30:35 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 15:34:47 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Mar-2017 15:50:42 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Mar-2017 16:24:56 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 16:24:56 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 17:43:14 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 17:43:14 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 17:45:33 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 17:56:51 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Mar-2017 18:44:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Mar-2017 18:58:50 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 19:03:50 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 19:03:50 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 19:09:10 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 19:09:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 19:19:30 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 19:21:51 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 19:21:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 20:15:10 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 20:37:29 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 20:37:29 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 21:39:48 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 21:39:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 21:53:22 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[13-Mar-2017 22:33:08 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 22:33:08 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 23:16:25 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 23:16:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[13-Mar-2017 23:17:46 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[13-Mar-2017 23:17:46 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 00:59:42 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 00:59:42 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 01:07:02 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 01:07:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 01:29:21 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 01:31:41 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 01:31:41 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 02:11:00 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 02:44:19 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 02:52:39 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 03:58:56 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 03:58:56 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 07:41:45 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[14-Mar-2017 08:03:23 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 08:03:23 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 08:37:42 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 08:37:42 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 12:42:49 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 12:52:58 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 12:52:58 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 13:42:06 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 13:42:06 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 13:52:26 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 13:52:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 14:45:47 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 14:45:47 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 15:50:05 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 16:34:23 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 16:55:43 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 17:15:03 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 17:15:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 18:10:26 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 18:10:26 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 18:28:57 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[14-Mar-2017 18:49:04 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[14-Mar-2017 21:25:11 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 21:25:11 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[14-Mar-2017 21:26:32 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 21:33:32 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[14-Mar-2017 23:22:51 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[14-Mar-2017 23:22:51 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[15-Mar-2017 00:07:06 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[15-Mar-2017 00:07:06 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[15-Mar-2017 00:43:26 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[15-Mar-2017 01:52:45 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[15-Mar-2017 02:41:05 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[15-Mar-2017 02:45:25 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[15-Mar-2017 02:45:25 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[15-Mar-2017 03:17:34 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[15-Mar-2017 03:34:45 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[15-Mar-2017 03:34:45 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[15-Mar-2017 04:52:04 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[15-Mar-2017 04:52:04 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[15-Mar-2017 05:57:29 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[15-Mar-2017 15:32:16 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[15-Mar-2017 21:59:05 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[16-Mar-2017 03:46:51 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[16-Mar-2017 07:49:32 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[16-Mar-2017 15:42:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[16-Mar-2017 18:05:27 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[17-Mar-2017 07:37:21 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-Mar-2017 07:05:15 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-Mar-2017 10:31:07 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-Mar-2017 11:06:58 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-Mar-2017 18:26:48 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-Mar-2017 19:13:15 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-Mar-2017 22:42:17 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Mar-2017 12:47:49 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Mar-2017 15:25:30 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Mar-2017 17:08:19 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Mar-2017 19:20:07 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Mar-2017 20:53:26 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[21-Mar-2017 14:09:39 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[21-Mar-2017 22:15:12 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-Mar-2017 06:48:32 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-Mar-2017 08:45:18 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-Mar-2017 15:13:12 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-Mar-2017 18:43:59 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[23-Mar-2017 00:50:08 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[23-Mar-2017 03:58:38 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[23-Mar-2017 04:29:03 UTC] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[23-Mar-2017 04:29:03 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[23-Mar-2017 04:29:03 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: operation failed in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[23-Mar-2017 04:29:03 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[23-Mar-2017 17:32:57 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[23-Mar-2017 19:18:30 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[24-Mar-2017 09:03:10 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[24-Mar-2017 09:47:21 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-Mar-2017 07:15:39 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-Mar-2017 07:29:26 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-Mar-2017 07:29:38 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-Mar-2017 20:17:00 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-Mar-2017 21:44:02 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-Mar-2017 21:54:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-Mar-2017 16:01:57 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-Mar-2017 20:08:51 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-Mar-2017 20:08:58 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-Mar-2017 10:49:03 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-Mar-2017 17:19:31 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-Mar-2017 19:34:07 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[28-Mar-2017 08:52:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[28-Mar-2017 13:44:09 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[28-Mar-2017 16:15:43 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Mar-2017 08:40:03 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Mar-2017 08:42:49 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Mar-2017 12:50:23 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Mar-2017 14:54:33 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Mar-2017 16:47:40 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Mar-2017 20:41:14 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Mar-2017 21:33:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[30-Mar-2017 09:55:51 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[30-Mar-2017 18:09:43 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[31-Mar-2017 07:12:08 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[31-Mar-2017 09:19:22 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[31-Mar-2017 12:14:39 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[31-Mar-2017 18:19:27 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[01-Apr-2017 08:45:07 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[01-Apr-2017 17:38:33 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[02-Apr-2017 05:51:39 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[03-Apr-2017 09:23:30 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[03-Apr-2017 18:06:36 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[03-Apr-2017 21:16:17 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[04-Apr-2017 04:04:24 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-Apr-2017 00:28:42 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-Apr-2017 00:28:42 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-Apr-2017 02:49:59 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-Apr-2017 09:55:27 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-Apr-2017 10:33:33 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-Apr-2017 13:09:06 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[05-Apr-2017 15:10:03 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-Apr-2017 16:38:57 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-Apr-2017 23:43:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[06-Apr-2017 03:17:10 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[06-Apr-2017 03:17:21 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[06-Apr-2017 07:18:59 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[07-Apr-2017 07:03:24 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[07-Apr-2017 11:32:37 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[07-Apr-2017 13:50:06 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[07-Apr-2017 21:49:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[08-Apr-2017 12:41:08 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[09-Apr-2017 07:08:12 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[10-Apr-2017 01:16:50 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[10-Apr-2017 07:59:29 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[10-Apr-2017 19:42:33 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[11-Apr-2017 04:12:59 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[11-Apr-2017 13:25:06 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[11-Apr-2017 23:07:17 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[12-Apr-2017 14:38:17 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Apr-2017 01:00:07 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Apr-2017 04:16:02 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Apr-2017 11:23:19 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Apr-2017 11:44:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-Apr-2017 13:05:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[14-Apr-2017 09:22:37 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[15-Apr-2017 22:30:22 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[16-Apr-2017 08:02:50 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[17-Apr-2017 05:52:50 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[17-Apr-2017 12:58:46 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[17-Apr-2017 15:12:35 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-Apr-2017 05:50:24 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-Apr-2017 15:33:20 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-Apr-2017 16:10:12 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-Apr-2017 17:20:12 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-Apr-2017 19:12:26 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Apr-2017 07:00:43 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Apr-2017 09:33:17 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Apr-2017 11:21:26 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Apr-2017 15:15:35 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[20-Apr-2017 15:26:00 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[21-Apr-2017 03:40:52 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[21-Apr-2017 16:28:08 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[21-Apr-2017 20:03:45 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-Apr-2017 01:13:10 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-Apr-2017 12:51:53 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-Apr-2017 15:28:17 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-Apr-2017 16:51:45 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[23-Apr-2017 09:46:05 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[23-Apr-2017 11:30:14 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[24-Apr-2017 08:38:55 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[24-Apr-2017 15:08:57 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[24-Apr-2017 15:08:57 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: operation failed in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[24-Apr-2017 15:08:57 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[24-Apr-2017 17:42:13 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[24-Apr-2017 17:55:06 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[24-Apr-2017 21:56:18 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-Apr-2017 11:10:00 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-Apr-2017 13:59:37 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 13:59:47 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: operation failed in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 13:59:47 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[25-Apr-2017 14:01:22 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 14:01:22 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: operation failed in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 14:01:22 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[25-Apr-2017 14:03:37 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[25-Apr-2017 14:03:37 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: operation failed in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[25-Apr-2017 14:04:05 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 14:04:43 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: operation failed in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 14:04:43 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[25-Apr-2017 14:05:15 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[25-Apr-2017 14:05:15 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/search?key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE&amp;part=id&amp;channelId=UCQefCQbvl106ECsyVwXK6xA&amp;order=date&amp;maxResults=1&amp;type=video): failed to open stream: operation failed in /home/jensz12/domain/denmandigeelg.dk/index.php on line 2
+[25-Apr-2017 14:05:44 UTC] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 14:05:44 UTC] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 14:05:44 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: operation failed in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[25-Apr-2017 14:05:44 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[26-Apr-2017 00:24:05 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-Apr-2017 06:23:22 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-Apr-2017 23:16:17 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-Apr-2017 04:21:06 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-Apr-2017 09:55:44 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[28-Apr-2017 07:59:00 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Apr-2017 04:37:27 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Apr-2017 14:37:31 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-Apr-2017 22:30:30 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[30-Apr-2017 12:27:40 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[30-Apr-2017 14:57:45 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[01-May-2017 15:27:13 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[01-May-2017 16:54:31 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[01-May-2017 16:54:33 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[01-May-2017 18:08:51 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[02-May-2017 06:39:02 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[02-May-2017 09:13:59 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[03-May-2017 10:46:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[04-May-2017 01:29:31 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[04-May-2017 04:20:28 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[04-May-2017 04:49:31 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[04-May-2017 04:49:32 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-May-2017 09:14:17 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[05-May-2017 14:22:09 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[06-May-2017 10:32:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[06-May-2017 11:50:03 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[06-May-2017 17:39:29 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[06-May-2017 21:42:32 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[07-May-2017 01:19:36 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[07-May-2017 07:30:47 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[07-May-2017 17:46:13 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[07-May-2017 19:48:45 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[08-May-2017 05:06:52 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[08-May-2017 15:16:29 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[08-May-2017 17:50:35 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[09-May-2017 10:21:21 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[09-May-2017 14:09:18 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[09-May-2017 21:04:16 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[10-May-2017 05:21:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[10-May-2017 09:42:18 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[11-May-2017 13:28:33 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[11-May-2017 13:28:36 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[11-May-2017 22:20:18 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[11-May-2017 22:52:32 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[12-May-2017 18:19:28 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-May-2017 14:56:25 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-May-2017 16:28:46 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-May-2017 16:28:47 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[13-May-2017 17:51:06 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[14-May-2017 13:08:18 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[14-May-2017 20:26:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[14-May-2017 22:12:13 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[15-May-2017 13:52:12 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[16-May-2017 11:44:41 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[16-May-2017 11:48:04 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[17-May-2017 20:23:59 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-May-2017 08:14:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-May-2017 11:13:19 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-May-2017 15:20:22 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-May-2017 15:56:54 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-May-2017 19:27:01 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[18-May-2017 21:06:19 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-May-2017 12:34:46 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-May-2017 18:22:48 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCQefCQbvl106ECsyVwXK6xA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 2
+[19-May-2017 18:22:48 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 24
+[19-May-2017 19:43:49 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[19-May-2017 19:57:39 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[21-May-2017 01:48:02 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[21-May-2017 07:04:29 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[21-May-2017 12:36:02 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-May-2017 01:39:40 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-May-2017 06:45:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-May-2017 08:51:31 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-May-2017 11:01:55 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-May-2017 15:44:22 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[22-May-2017 20:19:59 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[23-May-2017 08:13:26 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-May-2017 15:01:06 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-May-2017 17:55:47 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[25-May-2017 23:04:29 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-May-2017 01:37:00 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-May-2017 04:49:31 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-May-2017 06:51:08 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[26-May-2017 09:44:52 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-May-2017 03:04:32 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-May-2017 03:50:52 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-May-2017 07:52:48 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-May-2017 11:41:19 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[27-May-2017 19:08:23 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[28-May-2017 14:08:29 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[28-May-2017 19:40:20 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-May-2017 07:55:51 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[29-May-2017 17:15:13 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[30-May-2017 04:29:34 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[30-May-2017 18:09:04 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[30-May-2017 18:24:20 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[30-May-2017 19:58:46 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/serier.php on line 3
+[31-May-2017 01:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 192
+[31-May-2017 01:30:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 192
+[31-May-2017 01:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 212
+[31-May-2017 09:00:09 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 192
+[31-May-2017 09:00:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 192
+[31-May-2017 09:00:09 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 212
+[31-May-2017 10:20:08 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 192
+[31-May-2017 10:20:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 192
+[31-May-2017 10:20:08 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 212
+[31-May-2017 11:30:03 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 192
+[31-May-2017 11:30:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 192
+[31-May-2017 11:30:03 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 212
+[22-Jun-2017 12:50:07 UTC] PHP Notice:  Undefined property: stdClass::$items in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 155
+[22-Jun-2017 12:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 155
+[06-Jul-2017 22:00:03 UTC] PHP Notice:  Trying to get property of non-object in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 125
+[06-Jul-2017 22:00:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 125
+[14-Jul-2017 23:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php:231
+Stack trace:
+#0 /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php(105): JensFunctions::curlGetJSON('https://www.goo...', Array, true)
+#1 /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php(33): JensFunctions::fetchYouTubeData()
+#2 /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php(21): JensFunctions::runCronjob()
+#3 /home/jensz12/domain/denmandigeelg.dk/index.php(5): JensFunctions::checkCronjob()
+#4 {main}
+  thrown in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 231
+[17-Jul-2017 02:30:03 UTC] PHP Notice:  Undefined index: items in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 108
+[17-Jul-2017 02:30:03 UTC] PHP Notice:  Undefined property: stdClass::$items in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 155
+[17-Jul-2017 02:30:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 155
+[17-Jul-2017 02:30:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:31:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:32:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:33:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:34:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:35:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:36:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:37:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:38:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 02:39:10 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:30:04 UTC] PHP Notice:  Undefined index: items in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 108
+[17-Jul-2017 14:30:04 UTC] PHP Notice:  Undefined property: stdClass::$items in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 155
+[17-Jul-2017 14:30:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 155
+[17-Jul-2017 14:30:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:31:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:32:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:33:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:34:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:35:53 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:36:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:37:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:38:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[17-Jul-2017 14:39:54 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/sidebar.php on line 25
+[02-Aug-2017 01:50:05 UTC] PHP Notice:  Undefined property: stdClass::$items in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 125
+[02-Aug-2017 01:50:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 125
+[21-Aug-2017 09:50:03 UTC] PHP Notice:  Undefined property: stdClass::$items in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 125
+[21-Aug-2017 09:50:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 125
+[21-Aug-2017 10:00:03 UTC] PHP Notice:  Undefined property: stdClass::$items in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 125
+[21-Aug-2017 10:00:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jensz12/domain/denmandigeelg.dk/inc/JensFunctions.php on line 125

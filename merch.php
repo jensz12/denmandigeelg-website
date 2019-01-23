@@ -1,0 +1,1 @@
+<?php header('Location: https://merchcity.com/band/den-mandige-elg'); ?>

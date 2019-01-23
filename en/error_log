@@ -1,0 +1,25 @@
+[13-Mar-2017 22:33:06 UTC] PHP Warning:  file_get_contents(https://www.googleapis.com/youtube/v3/channels?part=statistics&amp;id=UCr6lyt73rvsYF_M48ZXS3IA&amp;key=AIzaSyDBzIBpp0A9HUcrkwhLVJ_k1cLdwrk0pLE): failed to open stream: Connection timed out in /home/jensz12/domain/denmandigeelg.dk/en/sidebar.php on line 2
+[13-Mar-2017 22:33:06 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/jensz12/domain/denmandigeelg.dk/en/sidebar.php on line 24
+[16-Mar-2017 11:06:54 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[23-Mar-2017 20:27:18 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[23-Mar-2017 21:32:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[01-Apr-2017 07:11:12 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[01-Apr-2017 21:36:36 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[03-Apr-2017 12:39:20 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[02-May-2017 02:20:03 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[05-May-2017 10:30:05 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[05-May-2017 23:31:14 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[07-May-2017 04:03:18 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[17-May-2017 23:13:35 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[24-May-2017 13:54:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[05-Jun-2017 14:33:22 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[06-Jun-2017 13:18:38 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[07-Jun-2017 14:28:03 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[09-Jun-2017 20:16:28 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[07-Jul-2017 17:14:09 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[09-Jul-2017 12:21:13 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[09-Jul-2017 17:45:58 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[10-Aug-2017 02:03:11 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[10-Aug-2017 23:39:37 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[12-Aug-2017 02:24:15 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
+[14-Aug-2017 18:05:31 UTC] PHP Warning:  Illegal string offset 'videoId' in /home/jensz12/domain/denmandigeelg.dk/en/series.php on line 3
